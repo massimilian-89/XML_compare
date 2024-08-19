@@ -1,9 +1,3 @@
-# XML_compare
-
-
-Here's a README file for the provided Python script:
-
----
 
 # XML Comparison Script
 
