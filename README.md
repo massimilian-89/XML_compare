@@ -55,9 +55,6 @@ If this is the first time running the script, `latest_version.xml` will be creat
 
 Feel free to submit issues or pull requests if you find bugs or have improvements to suggest.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
